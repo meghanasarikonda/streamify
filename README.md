@@ -60,9 +60,9 @@ This will launch the development server, and you can view the application in you
      **Reasoning:** `json-server` enables quick setup and testing but doesn't cover all scenarios of a real backend.
 3. **State Management**
 
-    **Trade-off:** Used local state (`useState`, `useEffect`) instead of Redux or Recoil.
+    **Trade-off:** Used local state (`useState`, `useEffect`) instead of Redux or Recoil.  
      **Reasoning:** Local state is simpler and sufficient for this project as json-server is proving the necessary routes, so skipped global state management library.
 4. **Error Handling and Loading States**
 
-    **Trade-off:** Implemented basic error handling and loading states.
+    **Trade-off:** Implemented basic error handling and loading states.  
      **Reasoning:** Basic handling improves user experience, but more advanced strategies might be needed for production.
