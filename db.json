@@ -1,0 +1,200 @@
+{
+    "metrics": [
+        { "title": "Total Users", "value": "50,000"},
+        { "title": "Total Revenue", "value": "$75,000"},
+        { "title": "Active Users", "value": "12,000"},
+        { "title": "Total Streams", "value": "35,000"},
+        { "title": "Top Artist", "value": "Javed Ali"}
+    ],
+    "userGrowth": [
+        { "month": "Sep 23", "totalUsers": 15000, "activeUsers": 7500 },
+        { "month": "Oct 23", "totalUsers": 15500, "activeUsers": 7800 },
+        { "month": "Nov 23", "totalUsers": 16000, "activeUsers": 8000 },
+        { "month": "Dec 23", "totalUsers": 16500, "activeUsers": 8300 },
+        { "month": "Jan 24", "totalUsers": 17000, "activeUsers": 8500 },
+        { "month": "Feb 24", "totalUsers": 17500, "activeUsers": 8700 },
+        { "month": "Mar 24", "totalUsers": 18000, "activeUsers": 9000 },
+        { "month": "Apr 24", "totalUsers": 18500, "activeUsers": 9200 },
+        { "month": "May 24", "totalUsers": 19000, "activeUsers": 9500 },
+        { "month": "Jun 24", "totalUsers": 19500, "activeUsers": 9800 },
+        { "month": "Jul 24", "totalUsers": 20000, "activeUsers": 10000 },
+        { "month": "Aug 24", "totalUsers": 20500, "activeUsers": 10200 }
+    ],
+    "revenueSources": [
+        {
+        "label": "Subscriptions",
+        "value": 50000
+        },
+        {
+        "label": "Advertisements",
+        "value": 20000
+        },
+        {
+        "label": "Partnerships",
+        "value": 5000
+        },
+        {
+        "label": "Affiliate Marketing",
+        "value": 1000
+        },
+        {
+        "label": "Merchandising",
+        "value": 3000
+        }
+    ],
+    "topSongs": [
+        {
+        "songName": "Samajavaragamana",
+        "artist": "Sid Sriram",
+        "streamCount": 5000
+        },
+        {
+        "songName": "Rowdy Baby",
+        "artist": "Dhanush, Dhee",
+        "streamCount": 2000
+        },
+        {
+        "songName": "Ramuloo Ramulaa",
+        "artist": "Anurag Kulkarni",
+        "streamCount": 4500
+        },
+        {
+        "songName": "Butta Bomma",
+        "artist": "Anurag Kulkarni",
+        "streamCount": 1500
+        },
+        {
+        "songName": "Seeti Maar",
+        "artist": "Jaspreet Jasz, Rita",
+        "streamCount": 1900
+        }
+    ],
+    "streams": [
+        {
+            "songName": "Samajavaragamana",
+            "artist": "Sid Sriram",
+            "dateStreamed": "2024-08-25",
+            "streamCount": 1200,
+            "id": 1
+        },
+        {
+            "songName": "Ramuloo Ramulaa",
+            "artist": "Anurag Kulkarni",
+            "dateStreamed": "2024-08-25",
+            "streamCount": 1000,
+            "id": 2
+        },
+        {
+            "songName": "Butta Bomma",
+            "artist": "Armaan Malik",
+            "dateStreamed": "2024-08-24",
+            "streamCount": 1500,
+            "id": 3
+        },
+        {
+            "songName": "Inkem Inkem Inkem Kaavaale",
+            "artist": "Sid Sriram",
+            "dateStreamed": "2024-08-24",
+            "streamCount": 1100,
+            "id": 4
+        },
+        {
+            "songName": "Ala Vaikunthapurramuloo",
+            "artist": "Armaan Malik",
+            "dateStreamed": "2024-08-23",
+            "streamCount": 1300,
+            "id": 5
+        },
+        {
+            "songName": "Vachindamma",
+            "artist": "Sid Sriram",
+            "dateStreamed": "2024-08-23",
+            "streamCount": 900,
+            "id": 6
+        },
+        {
+            "songName": "Nee Kannu Neeli Samudram",
+            "artist": "Javed Ali",
+            "dateStreamed": "2024-08-22",
+            "streamCount": 1400,
+            "id": 7
+        },
+        {
+            "songName": "Rowdy Baby",
+            "artist": "Dhanush, Dhee",
+            "dateStreamed": "2024-08-22",
+            "streamCount": 2000,
+            "id": 8
+        },
+        {
+            "songName": "You Are My Heartbeat",
+            "artist": "Sid Sriram",
+            "dateStreamed": "2024-08-21",
+            "streamCount": 1000,
+            "id": 9
+        },
+        {
+            "songName": "Evare",
+            "artist": "Vijay Yesudas",
+            "dateStreamed": "2024-08-21",
+            "streamCount": 1150,
+            "id": 10
+        },
+        {
+            "songName": "Padi Padi Leche Manasu",
+            "artist": "Armaan Malik",
+            "dateStreamed": "2024-08-20",
+            "streamCount": 1250,
+            "id": 11
+        },
+        {
+            "songName": "Undiporaadhey",
+            "artist": "Sid Sriram",
+            "dateStreamed": "2024-08-20",
+            "streamCount": 1350,
+            "id": 12
+        },
+        {
+            "songName": "Peniviti",
+            "artist": "Kaala Bhairava",
+            "dateStreamed": "2024-08-19",
+            "streamCount": 1450,
+            "id": 13
+        },
+        {
+            "songName": "Oohalu Oorege Gaalanthaa",
+            "artist": "Yazin Nizar, Haricharan",
+            "dateStreamed": "2024-08-19",
+            "streamCount": 800,
+            "id": 14
+        },
+        {
+            "songName": "Seeti Maar",
+            "artist": "Jaspreet Jasz, Rita",
+            "dateStreamed": "2024-08-18",
+            "streamCount": 1900,
+            "id": 16
+        },
+        {
+            "songName": "Nuvvostanante Nenoddantana",
+            "artist": "Karthik, Sumangali",
+            "dateStreamed": "2024-08-18",
+            "streamCount": 950,
+            "id": 15
+        },
+        {
+            "songName": "Emo Emo Emo",
+            "artist": "Sid Sriram",
+            "dateStreamed": "2024-08-17",
+            "streamCount": 1100,
+            "id": 18
+        },
+        {
+            "songName": "Mellaga Tellarindoi",
+            "artist": "Haricharan",
+            "dateStreamed": "2024-08-17",
+            "streamCount": 1200,
+            "id": 17
+        }
+      ]
+}
